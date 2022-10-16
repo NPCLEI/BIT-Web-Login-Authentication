@@ -1,6 +1,6 @@
 # BIT-BIT-Web-Login-Authentication
 
-北理工自动上网脚本。
+北理工自动上网脚本,校园网登录。
 
 需要edge浏览器，并下载对应版本的msedgedriver:https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
